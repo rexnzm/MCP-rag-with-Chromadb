@@ -124,7 +124,7 @@ To use this MCP server with Claude Desktop, add the following configuration to y
         "--directory",
         "/path/to/mcp_rag_server",
         "run",
-        "server"
+        "server.py"
       ]
     }
   }
@@ -141,7 +141,7 @@ Alternatively, you can also integrate it directly from Github by updating claude
 	"args": [
 		"--from",
 		"git+https://github.com/CyprianFusi/MCP-rag-with-Chromadb.git",
-		"server"
+		"server.py"
 	]
 }
 ```
@@ -156,7 +156,7 @@ If this is your first MCP server then use this instead:
 		"args": [
 			"--from",
 			"git+https://github.com/CyprianFusi/MCP-rag-with-Chromadb.git",
-			"server"
+			"server.py"
 		]
 	}
   }
